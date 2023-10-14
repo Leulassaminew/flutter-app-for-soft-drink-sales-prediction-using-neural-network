@@ -10,7 +10,9 @@ Specifically built to predict sales for
 - Coca-Cola
 - Sprite
 - Fanta
-
+## Model Deployment
+    Model deployed to railway as an API
+    API=https://api-production-3288.up.railway.app/predict
 ## R2_score 89%
 ![r2](https://github.com/Leulassaminew/flutter-app-for-soft-drink-sales-prediction-using-neural-network/assets/88404832/a16df20e-e219-4a5d-83c4-e0dfe6acc2b6)
 ## Parameters to predict sales
